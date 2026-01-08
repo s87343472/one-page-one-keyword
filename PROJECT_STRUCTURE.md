@@ -77,7 +77,7 @@ one-page-one-keyword-v2-github/
 
 ```bash
 # 1. 克隆仓库
-git clone https://github.com/你的用户名/one-page-one-keyword.git
+git clone https://github.com/s87343472/one-page-one-keyword.git
 
 # 2. 打包 Skill
 cd one-page-one-keyword
@@ -151,7 +151,7 @@ git add .
 git commit -m "feat: 发布 v2.0.0 版本"
 
 # 4. 添加远程仓库
-git remote add origin https://github.com/你的用户名/one-page-one-keyword.git
+git remote add origin https://github.com/s87343472/one-page-one-keyword.git
 
 # 5. 推送
 git push -u origin main

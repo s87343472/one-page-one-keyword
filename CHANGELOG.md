@@ -116,5 +116,5 @@
 
 ## 链接
 
-- [v2.0.0](https://github.com/你的用户名/one-page-one-keyword/releases/tag/v2.0.0)
-- [v1.0.0](https://github.com/你的用户名/one-page-one-keyword/releases/tag/v1.0.0)
+- [v2.0.0](https://github.com/s87343472/one-page-one-keyword/releases/tag/v2.0.0)
+- [v1.0.0](https://github.com/s87343472/one-page-one-keyword/releases/tag/v1.0.0)

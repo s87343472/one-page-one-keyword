@@ -8,7 +8,7 @@
 
 如果你发现了 bug，请：
 
-1. 检查 [Issues](https://github.com/你的用户名/one-page-one-keyword/issues) 看是否已有人报告
+1. 检查 [Issues](https://github.com/s87343472/one-page-one-keyword/issues) 看是否已有人报告
 2. 如果没有，创建新的 Issue，包含：
    - 清晰的标题
    - 详细的描述
@@ -31,7 +31,7 @@
 
 1. **Fork 项目**
    ```bash
-   git clone https://github.com/你的用户名/one-page-one-keyword.git
+   git clone https://github.com/s87343472/one-page-one-keyword.git
    cd one-page-one-keyword
    ```
 

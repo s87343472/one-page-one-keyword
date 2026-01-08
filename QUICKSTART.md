@@ -4,7 +4,7 @@
 
 ### 方式1：使用预打包的 .skill 文件
 
-1. 从 [Releases](https://github.com/你的用户名/one-page-one-keyword/releases) 下载最新的 `one-page-one-keyword.skill`
+1. 从 [Releases](https://github.com/s87343472/one-page-one-keyword/releases) 下载最新的 `one-page-one-keyword.skill`
 2. 打开 Claude.ai 或 Claude 桌面应用
 3. 进入 Settings → Skills
 4. 点击 "Upload skill" 按钮
@@ -14,7 +14,7 @@
 
 ```bash
 # 1. 克隆仓库
-git clone https://github.com/你的用户名/one-page-one-keyword.git
+git clone https://github.com/s87343472/one-page-one-keyword.git
 cd one-page-one-keyword
 
 # 2. 打包 skill
@@ -110,7 +110,7 @@ python3 check_keyword_conflicts.py ../assets/my-keywords.csv
 ## 🐛 遇到问题？
 
 - 查看 [常见问题](README.md#常见问题)
-- 提交 [Issue](https://github.com/你的用户名/one-page-one-keyword/issues)
+- 提交 [Issue](https://github.com/s87343472/one-page-one-keyword/issues)
 - 访问作者博客：[sagasu.art](https://sagasu.art)
 
 ---

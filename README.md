@@ -4,7 +4,7 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Claude](https://img.shields.io/badge/Claude-Skill-blueviolet)](https://claude.ai)
-[![Version](https://img.shields.io/badge/version-2.0-blue)](https://github.com/你的用户名/one-page-one-keyword/releases)
+[![Version](https://img.shields.io/badge/version-2.0-blue)](https://github.com/s87343472/one-page-one-keyword/releases)
 
 [English](#english) | [中文](#中文)
 
@@ -58,7 +58,7 @@
 
 **方式1：下载 .skill 文件（推荐）**
 
-1. [点击下载](https://github.com/你的用户名/one-page-one-keyword/releases/latest) `one-page-one-keyword.skill`
+1. [点击下载](https://github.com/s87343472/one-page-one-keyword/releases/latest) `one-page-one-keyword.skill`
 2. 打开 [Claude.ai](https://claude.ai) 或 Claude 桌面应用
 3. 进入 Settings → Skills → Upload skill
 4. 上传下载的文件
@@ -67,7 +67,7 @@
 
 ```bash
 # 克隆仓库
-git clone https://github.com/你的用户名/one-page-one-keyword.git
+git clone https://github.com/s87343472/one-page-one-keyword.git
 cd one-page-one-keyword
 
 # 打包 skill（需要 Python 3）
@@ -183,7 +183,7 @@ one-page-one-keyword/
 
 ```bash
 # 克隆仓库
-git clone https://github.com/你的用户名/one-page-one-keyword.git
+git clone https://github.com/s87343472/one-page-one-keyword.git
 cd one-page-one-keyword
 
 # 测试脚本
@@ -232,7 +232,7 @@ python3 scripts/package_skill.py one-page-one-keyword
 
 - 作者：[Sagasu](https://sagasu.art)
 - 博客：[sagasu.art](https://sagasu.art)
-- Issue：[GitHub Issues](https://github.com/你的用户名/one-page-one-keyword/issues)
+- Issue：[GitHub Issues](https://github.com/s87343472/one-page-one-keyword/issues)
 
 ---
 
@@ -284,7 +284,7 @@ A Claude Skill designed for website operators, SEO specialists, and indie develo
 
 **Method 1: Download .skill file (Recommended)**
 
-1. [Download](https://github.com/你的用户名/one-page-one-keyword/releases/latest) `one-page-one-keyword.skill`
+1. [Download](https://github.com/s87343472/one-page-one-keyword/releases/latest) `one-page-one-keyword.skill`
 2. Open [Claude.ai](https://claude.ai) or Claude desktop app
 3. Go to Settings → Skills → Upload skill
 4. Upload the downloaded file
@@ -293,7 +293,7 @@ A Claude Skill designed for website operators, SEO specialists, and indie develo
 
 ```bash
 # Clone repository
-git clone https://github.com/你的用户名/one-page-one-keyword.git
+git clone https://github.com/s87343472/one-page-one-keyword.git
 cd one-page-one-keyword
 
 # Package skill (requires Python 3)
@@ -370,6 +370,6 @@ This project is licensed under the MIT License - see [LICENSE.txt](one-page-one-
 
 **⭐ If this Skill helps you, please give it a Star!**
 
-**💬 Issues? [Submit an Issue](https://github.com/你的用户名/one-page-one-keyword/issues/new)**
+**💬 Issues? [Submit an Issue](https://github.com/s87343472/one-page-one-keyword/issues/new)**
 
 **🔗 More Claude Skills: [Agent-Skills.md](https://agent-skills.md)**
